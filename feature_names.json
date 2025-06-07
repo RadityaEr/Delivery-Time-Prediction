@@ -1,0 +1,9 @@
+[
+  "Traffic_Level",
+  "Time_of_Day",
+  "Weather",
+  "Vehicle_Type",
+  "Distance_km",
+  "Preparation_Time_min",
+  "Courier_Experience_yrs"
+]
