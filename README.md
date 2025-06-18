@@ -1,6 +1,6 @@
 # 🚀 Food Delivery Time Prediction — Streamlit App
 
-This repository contains the **Streamlit web app** for predicting food delivery time based on key delivery factors. It uses the trained Ridge Regression model from my [Food Delivery Time Prediction](YOUR_MAIN_REPO_LINK) project.
+This repository contains the **Streamlit web app** for predicting food delivery time based on key delivery factors. It uses the trained Ridge Regression model from my [Food Delivery Time Prediction](https://github.com/RadityaEr/Delivery-Time-Prediction) project.
 
 Providing accurate delivery time estimates helps food delivery services boost customer satisfaction and remain competitive in a dynamic market.
 
